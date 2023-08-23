@@ -1,4 +1,4 @@
-# Pafin-Web API - Technical Exam for Pafin
+# Pafin-Web - Technical Exam for Pafin
 
 Welcome to the Pafin-web API repository, authored by Froilan Sam. This API is an integral part of Pafin's technical exam, aimed at showcasing your skills and creativity. Follow the instructions below to get started!
 

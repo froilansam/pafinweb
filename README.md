@@ -7,7 +7,7 @@ Welcome to the Pafin-web API repository, authored by Froilan Sam. This API is an
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/pafin-web.git
+   git clone https://github.com/froilansam/pafinweb.git
    ```
 
 2. **Navigate to the Directory:** Move into the cloned repository directory using:
